@@ -11,5 +11,7 @@ package ramas;
  * agonzalezacevedo
  */
 public class Nueva {
-
+    public void nuevaclase(){
+        System.out.println("ARRIBA ESPAÑA");
+    }
 }
